@@ -1,0 +1,64 @@
+@font-face {
+    font-family:'rudawregular2';
+    src:url('rudawregular2.ttf');
+    }
+/* snor*************************snor */
+
+body{
+
+background-color: rgb(37, 37, 37);
+
+}
+/* snor*************************snor */
+
+nav{
+font-family: rudawregular2 ;
+background-color: rgb(56, 46, 90);
+text-align: center;
+border-radius: 5px;
+margin: 10px;
+height:36px;
+}
+.ptag{
+margin-top: 3px;
+color: rgb(255, 255, 255);
+font-size:20px;
+/* snor*************************snor */
+
+}
+.lb{
+  font-family: rudawregular2 ;
+
+  color: rgb(255, 255, 255);
+
+}
+div{
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+/* snor*************************snor */
+.in{
+color: rgb(0, 0, 0);
+    font-family: rudawregular2 ;
+border-radius:9px;
+font-size: 19px;
+border-color:rgb(37, 37, 37);
+height: 21px;
+
+}
+
+
+.bu{
+    background-color: rgb(56, 46, 90);
+    font-family: rudawregular2 ;
+margin-top: 5px;
+border-radius:6px;
+color: rgb(255, 255, 255);
+border-color:rgb(56, 46, 90);
+
+}
+
+/* snor*************************snor */
+
+
